@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "test-repo",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@changesets/cli": "^2.5.2"
+  }
+}
